@@ -17,3 +17,32 @@ https://github.com/hpssjellis/spark-core-web-page-html-control
 
 
 From your computer click the fart button and you should see the iFrame reutrn "1" if it could work.
+
+
+
+If your core-id and Access_token are incorrect you will see something like
+{
+
+  "code": 400,
+  
+  "error": "invalid_grant",
+  
+  "error_description": "The access token provided is invalid."
+  
+}
+
+
+If the information is correct you should see
+
+a bunch of inforation and 
+
+"reutrn_value" : 1
+
+
+meaning it worked, now you just need something hooked up to D0
+
+
+
+
+
+
