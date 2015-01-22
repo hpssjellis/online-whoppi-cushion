@@ -36,7 +36,7 @@ If the information is correct you should see
 
 a bunch of inforation and 
 
-"reutrn_value" : 1
+"return_value" : 1
 
 
 meaning it worked, now you just need something hooked up to D0
